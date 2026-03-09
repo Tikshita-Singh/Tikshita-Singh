@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React Js,JavaScript,Java,Python,SQL,Power BI**
 
-- 📫 How to reach me **aec.cse.tikshitasingh.gmail.com**
+- 📫 How to reach me **aec.cse.tikshitasingh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
