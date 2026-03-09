@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React Js,JavaScript,Java,Python**
+- 💬 Ask me about **React Js,JavaScript,Java,Python,SQL,Power BI**
 
 - 📫 How to reach me **aec.cse.tikshitasingh.gmail.com**
 
